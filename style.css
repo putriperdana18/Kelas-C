@@ -294,7 +294,7 @@ top: 0;
 left: 0;
 right: 0;
 bottom: 0;
-width: 70%;
+width: 90%;
 margin: auto;
 padding: 20px;
 position: relative;
@@ -321,7 +321,7 @@ text-align: center;
 }
 .testimonial4_slide p {
   color: #ffffff;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 1.4;
   margin: 40px 0 20px 0;
 }
